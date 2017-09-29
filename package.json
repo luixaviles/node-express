@@ -1,0 +1,12 @@
+{
+  "name": "node-express",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.9.0",
+    "jsonfile": "^2.4.0",
+    "lodash": "^2.4.2"
+  },
+  "scripts": {
+    "start": "node server/app.js"
+  }
+}
